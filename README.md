@@ -24,9 +24,10 @@ Sourcecode: https://github.com/textext/textext
 ### 2.1.基本操作：安装inkscapeMadeEasy扩展，这扩展是使用其他扩展的基础
 
 git地址为https://github.com/fsmMLK/inkscapeMadeEasy
+
 1.直接打包下载，解压之后唯一有用的就是那个latest文件夹。
 
-2.首先打开此文件夹复制里面所有文件（3个.py和一个.tex），再打开inkscape，快捷键ctrl+shift+p打开首选项（在编辑中找也行），之后点击打开用户扩展的文件夹位置，一般是
+2.首先打开此文件夹复制里面所有文件（3个.py和一个.tex），再打开inkscape，快捷键ctrl+shift+p打开首选项（在编辑中找也行），之后点击系统，再打开用户扩展的文件夹位置，一般是
 
 ![捕获](https://user-images.githubusercontent.com/59023098/115977060-dadcf500-a5a6-11eb-8340-a8a812de9f5d.PNG)
 
