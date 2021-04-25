@@ -48,6 +48,8 @@ git地址为https://github.com/fsmMLK/inkscapeMadeEasy
 
 这些插件可以大幅提高作图速度。
 
+**注意：所有的插件安装后要重启inkscape才可用。**
+
 ### 2.2.安装和使用cartesianPlotFunction2D扩展
 
 这扩展支持使用LaTeX标注和自定义的步长与标尺，功能相当于2维的 matlab plot功能。
@@ -58,5 +60,11 @@ https://github.com/fsmMLK/inkscapeCartesianPlotFunction2D
 
 这个扩展的渲染速度很慢，不能指望它像Matlab那样秒出图，可以在出图前去做点别的事情。
 
+### 2.3.安装和使用slopeField扩展
+这个是向量场的绘图工具，不过只能用于一阶ODE。
+
+https://github.com/fsmMLK/inkscapeSlopeField
+
+安装方法与前面的完全一样，文件夹名为`slopeField`，也在扩展——fsmMLK——plot2D——Cartesian之类的后面找到。
 
 
