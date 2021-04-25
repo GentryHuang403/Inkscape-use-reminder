@@ -33,7 +33,7 @@ git地址为https://github.com/fsmMLK/inkscapeMadeEasy
 
 3.如果装了textext，这里会出现它的文件夹。
 
-4.新建一个名为`inkscapeMadeEasy`**（要求命名完全一致）**的文件夹，将上述文件复制进去即可。
+4.新建一个名为`inkscapeMadeEasy` **要求命名完全一致** 的文件夹，将上述文件复制进去即可。
 
 这里呈现的最终效果大概是这样
 
